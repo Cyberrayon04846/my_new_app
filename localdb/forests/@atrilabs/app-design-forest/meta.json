@@ -1,0 +1,17 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "9bdd6bfc-9b34-4c11-b4b6-5ba4b6445371": {
+      "name": "me_app",
+      "id": "9bdd6bfc-9b34-4c11-b4b6-5ba4b6445371",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root"
+  }
+}
